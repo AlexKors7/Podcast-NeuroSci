@@ -15,9 +15,17 @@ gere um script para o primeiro episódio
 - valide cada uma das etapas
 - elabore o que foi solicitado
 
+O tempo de duração do episódio do podcast gerado foi de 30 minutos.
+
 Após a alteração do nome do podcast, foi solicitado que os novos arquivos gerados contivessem o nome atual. O prompt utilizado para gerar novos arquivos pelo Perplexity PRO, foi:
 
 com base nos seus arquivos e no Script (que você deve atualizar seu nome para Script Episódio Piloto - "QuironPod: O Podcast sobre Neurociência de e para Mentes Curiosas"), elabore um texto para que seja lido pelo narrador do podcast
 
 Foram gerados diversos arquivos em extensões .txt e principalmente .md (muitos dos quais contidos na aba de Projetos - que, portanto, podem ser acessados através deste repositório)
 
+
+Para cumprir com p desafio e gerar um arquivo de áudio através da ferramenta de IA Eleven Labs, foi solicitado ao Perplexity resumir o Script original de 30 minutos para um de cerca de 3 minutos ( o tempo de áudio final gerado foi de 3'42"). O prompt utilizado no Perplexity PRO foi:
+
+perfeito, agora, com base no texto em markdown abaixo, gere uma versão resumida e concisa dele para um episódio teste de três minutos de duração. 
+- a entrega deve ser compatível com um script contendo apenas o que deverá ser lido/narrado pela ferramenta de inteligência artificial eleven labs
+- leve em consideração a quantidade máxima de caracteres que a versão gratuita eleven labs pode gerar sem cobrança
