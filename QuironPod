@@ -1,0 +1,23 @@
+Ferramenta de IA utilizada: Perplexity PRO (<https://www.perplexity.ai/>)
+
+O seguinte Prompt foi elaborado para gerar tal solicitação:
+
+tenho o projeto de criar um podcast (nome do Podcast: "Neuro-Sci: neurociência para mentes curiosas") - nome depois alterado para "QuironPod: O Podcast sobre Neurociência de e para Mentes Curiosas" a ser veiculado no spotfy e quero que me ajude a criar um script para o episódio piloto.
+- o público-alvo deste Podcast: jovens universitários que estejam cursando algum curso de graduação na área de Saúde e que tenham curiosidade sobre assuntos de Neurociências;
+- cada episódio durará em torno de trinta minutos e abordará um tema interessante e curioso sobre neurociências;
+- cada episódio será divido em dois blocos de cerca de catorze minutos cada com trinta segundos iniciais de vinheta, trinta de intervalo entre cada um dos dois blocos.
+
+O primeiro episódio vai abordar as Estruturas do Sistema Límbico e o Impacto das Emoções na hora de fazer uma prova, com ênfase no famoso "deu branco! e agora??? eu me esqueci!"
+
+gere um script para o primeiro episódio
+
+- reveja cada uma das instruções
+- valide cada uma das etapas
+- elabore o que foi solicitado
+
+Após a alteração do nome do podcast, foi solicitado que os novos arquivos gerados contivessem o nome atual. O prompt utilizado para gerar novos arquivos pelo Perplexity PRO, foi:
+
+com base nos seus arquivos e no Script (que você deve atualizar seu nome para Script Episódio Piloto - "QuironPod: O Podcast sobre Neurociência de e para Mentes Curiosas"), elabore um texto para que seja lido pelo narrador do podcast
+
+Foram gerados diversos arquivos em extensões .txt e principalmente .md (muitos dos quais contidos na aba de Projetos - que, portanto, podem ser acessados através deste repositório)
+
